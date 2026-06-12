@@ -59,5 +59,6 @@ https://lucid.app/lucidchart/01bd0f8c-3cc6-414a-b9bb-d63ec0951643/edit?viewport_
 This repository contains the User Journey Map created as part of Task 05 for the CT&DT course. It demonstrates the application of Design Thinking principles to analyze and improve user experiences.
 
 ---
-**Submitted by:** Anurag Kumar  
+Submitted by: Anurag Kumar  
 **Galgotias University**
+**L&T EduTech – CT&DT Program**
